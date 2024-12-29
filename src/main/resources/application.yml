@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: microservice-commandes
+  cloud:
+    config:
+      uri: http://localhost:8888 # URL de votre serveur de configuration
